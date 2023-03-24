@@ -1,7 +1,7 @@
 
 # React-template
 
-Template of a React and Typescript project using Vite.
+Template of a react and Typescript project using Vite.
 
 
 ## Run Locally
@@ -46,6 +46,8 @@ A build command that bundles your code with Rollup, pre-configured to output hig
 Flexible programmatic APIs with full TypeScript typing.
 
 Out-of-the-box support for TypeScript, JSX, CSS and more.
+
+
 
 
 
